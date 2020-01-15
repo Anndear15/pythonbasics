@@ -8,4 +8,3 @@ str2 = "Wamuyu"
 full_name = str1 +" "+ str2
 # print(full_name)
 print(str1.lower())
-strl.
